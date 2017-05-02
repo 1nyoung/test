@@ -18,3 +18,6 @@ feature 수정중에 develop 에서 변경이있다면
 
 feature 테스트중이다
 feature 테스트중이다2
+
+
+이제 cui테스트
